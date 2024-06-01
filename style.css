@@ -1,9 +1,16 @@
-body {
+
+
+@media scream and (min-width: 570px) {
+  body {
     background-color: #161717;
     font-size: 15px;
     font-family: 'Poppins';
     place-content: center;
 }
+
+
+}
+  
 
   .calculator {
     margin: auto;
